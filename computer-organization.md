@@ -35,7 +35,7 @@ Programa armazenado em memória - programa em execução roda na memória princi
 
 **Arquitetura de Von Neumann** - A memória é concorrida, com uma só entrada, então só podemos fazer o passo 1 ou o passo 3.
 
-**Arquitetuta de Harvard&& - Ou a memória tem duas entradas, ou temos duas memórias.<br>
+**Arquitetuta de Harvard** - Ou a memória tem duas entradas, ou temos duas memórias.<br>
 Memória cache nível 1 - 16x16, duas entradas, uma pra instruções e outra pra dados.
 
 **Barramento local (Front-side bus):** relacionamento memória-CPU.

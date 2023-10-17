@@ -38,3 +38,19 @@ Acessar a memória principal é muito mais demorado do que acessar o processador
 **Arquitetuta de Harvard** - Ou a memória tem duas entradas, ou temos duas memórias. Memória cache nível 1 - 16x16, duas entradas, uma pra instruções e outra pra dados.
 
 **Barramento local (Front-side bus):** relacionamento memória-CPU.
+
+## October 17th
+
+Todos os tamanhos de processador tem sua demanda.
+
+ARQUITETURA ARTELIS (AMD): Redes intra-chip fazendo a comunicação dos chips por roteadores.
+
+Software service/Platform service/Infrastructure service
+
+ILP - Instruction Level Paralelism está maximizada, então trabalhamos com modelos novos como de dados (DLP), threads (TLP) e requisições (RLP).
+
+**PROJETO DE ARQUITETURA**<br>
+Visão antiga:
+- 
+Visão atual:
+- Atender requisitos específicos e visionados da máquina

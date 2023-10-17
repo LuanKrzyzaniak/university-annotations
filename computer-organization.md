@@ -47,10 +47,9 @@ ARQUITETURA ARTELIS (AMD): Redes intra-chip fazendo a comunicação dos chips po
 
 Software service/Platform service/Infrastructure service
 
-ILP - Instruction Level Paralelism está maximizada, então trabalhamos com modelos novos como de dados (DLP), threads (TLP) e requisições (RLP).
+ILP - Instruction Level Paralelism está maximizada, então trabalhamos com modelos novos como de dados (DLP), threads (TLP) e de requisições (RLP).
 
-**PROJETO DE ARQUITETURA**<br>
-Visão antiga:
-- 
-Visão atual:
-- Atender requisitos específicos e visionados da máquina
+**Arquitetura do conjunto de instruções**
+- Estrutura: Código de operação + operandos
+- No máximo 3 operandos: 2 de origem e 1 de destino
+
